@@ -13,4 +13,16 @@ class Function {
 		return str;
 
 	}
+
+	int FirstFactorial(int num) {
+		
+		if (num > 1) {
+			num = (FirstFactorial(num-1)*num);
+		} else {
+			return num;
+		}
+
+		return num;
+
+	}
 }
