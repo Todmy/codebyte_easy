@@ -8,6 +8,14 @@ Use the Parameter Testing feature in the box below to test your code with differ
 Using the Java language, have the function FirstFactorial(num) take the num parameter being passed and return the factorial of it (ie. if num = 4, return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 18. 
 Use the Parameter Testing feature in the box below to test your code with different arguments.
 ----------
+3.For this challenge you will be determining the largest word in a string.
+Using the Java language, have the function LongestWord(sen) take the sen parameter being passed and return the largest word in the string. If there are two or more words that are the same length, return the first word from the string with that length. Ignore punctuation and assume sen will not be empty. 
+Use the Parameter Testing feature in the box below to test your code with different arguments.
+
+
+
+
+
 
 
 
